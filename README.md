@@ -1,2 +1,2 @@
 # projeto-pagina-web-simples
-Projeto para colocar em pratica HTML e CSS.
+Projeto do curso Matheus Batisti para colocar em pratica HTML e CSS basico.
